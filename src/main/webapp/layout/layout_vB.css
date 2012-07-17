@@ -1,0 +1,14 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+#body_vB {
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF url(images/img01.jpg) repeat-x;
+    text-align: justify;
+    font: 15px Arial, Helvetica, sans-serif;
+    color: blue;
+}
